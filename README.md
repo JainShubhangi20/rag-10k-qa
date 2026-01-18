@@ -69,3 +69,7 @@ python main.py --question "What was Apple's revenue in 2024?"
 python evaluation.py
 
 '''
+
+## Python notebook in Colab Files
+
+- The main python notebook link: https://colab.research.google.com/drive/1egq4qo_A_ENwVJE3WO1oTXQmTdLlSzGa?usp=sharing
