@@ -116,7 +116,7 @@ The system answers most questions correctly:
 
 4. Simple chunking - I just split by character count. Smarter chunking could keep paragraphs together.
 
-## Files
+## Python notebook in Colab Files
 
 - The main python notebook link: https://colab.research.google.com/drive/1egq4qo_A_ENwVJE3WO1oTXQmTdLlSzGa?usp=sharing
 
