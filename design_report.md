@@ -101,10 +101,10 @@ The system answers most questions correctly:
 
 | Question | Answer |
 |----------|--------|
-| Apple's revenue in 2024? | $391,035 million ✓ |
-| Tesla's revenue in 2023? | $96,773 million ✓ |
-| Tesla vehicles produced? | Model S, X, 3, Y, Cybertruck, Semi ✓ |
-| Stock price in 2025? | "Cannot be answered" ✓ |
+| Apple's revenue in 2024? | $391,035 million |
+| Tesla's revenue in 2023? | $96,773 million |
+| Tesla vehicles produced? | Model S, X, 3, Y, Cybertruck, Semi |
+| Stock price in 2025? | "Cannot be answered" |
 
 ## What Could Be Better
 
