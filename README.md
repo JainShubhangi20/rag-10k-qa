@@ -29,7 +29,6 @@ Recommended folder structure:
 rag-10k-rag-qa/
 ├── README.md
 ├── requirements.txt
-├── design_report.md
 ├── rag.ipynb
 └── content/
     ├── apple_10k.pdf
