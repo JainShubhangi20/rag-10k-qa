@@ -33,3 +33,7 @@ rag-10k-rag-qa/
 └── content/
     ├── apple_10k.pdf
     └── tesla_10k.pdf
+
+---
+python notebook link in colab:
+https://colab.research.google.com/drive/1egq4qo_A_ENwVJE3WO1oTXQmTdLlSzGa?usp=sharing
