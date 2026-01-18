@@ -27,13 +27,45 @@ Key components:
 Recommended folder structure:
 
 rag-10k-rag-qa/
-├── README.md
+├── main.py            # CLI 
+├── rag_core.py        # Core RAG pipeline
+├── evaluation.py      # Evaluation script
+├── rag_simple.ipynb   # Notebook version
 ├── requirements.txt
-├── rag.ipynb
-└── content/
-    ├── apple_10k.pdf
-    └── tesla_10k.pdf
+└── content/           # Put PDFs here
+├── apple_10k.pdf
+└── tesla_10k.pdf
+
+
 
 ---
-python notebook link in colab:
-https://colab.research.google.com/drive/1egq4qo_A_ENwVJE3WO1oTXQmTdLlSzGa?usp=sharing
+
+## Setup
+'''bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+''''
+
+Add PDFs in:
+
+'''
+./content/
+'''
+
+---
+## Ask a Question
+
+'''bash
+python main.py --question "What was Apple's revenue in 2024?"
+
+'''
+
+---
+
+## Run Evaluation
+
+'''bash
+python evaluation.py
+
+'''
